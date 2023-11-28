@@ -1,0 +1,19 @@
+{
+  "name": "alx-frontend-javascript",
+  "version": "1.0.0",
+  "description": "ALX SOFTWARE ENGINEERING PROGRAM COHORT 12 DATE: 271123 FRONTEND JAVASCRIPT TOPIC: 0X00-ES6_basic",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://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@github.com/lanre2nite/alx-frontend-javascript.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lanre2nite/alx-frontend-javascript/issues"
+  },
+  "homepage": "https://github.com/lanre2nite/alx-frontend-javascript#readme"
+}
