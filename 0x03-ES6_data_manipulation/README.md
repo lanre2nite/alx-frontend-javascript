@@ -1,0 +1,6 @@
+
+##this is a README.md file
+COHORT 12
+ALX SE PROGRAM
+DATE: 04/12/2023
+
